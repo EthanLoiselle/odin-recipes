@@ -1,1 +1,1 @@
-<!-- README folder for the odin-recipes assignment>
+Project to showcase my HTML fundamentals and basic understanding of git/github.
