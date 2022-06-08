@@ -1,0 +1,31 @@
+/* css styles for odin-recipes */ 
+
+* {
+    background-color: rgb(215, 215, 193);
+    margin: 0px;
+}
+
+.main-img {
+    margin: 20px;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.title {
+    margin: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkred;
+}
+
+p {
+    margin: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+    font-size: 30px;
+}
+
