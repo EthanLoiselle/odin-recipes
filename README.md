@@ -1,1 +1,1 @@
-Project to showcase my HTML fundamentals and basic understanding of git/github.
+Project to showcase my HTML/CSS fundamentals and basic understanding of git/github.
